@@ -14,7 +14,7 @@ This project aims to classify brain MRI images into tumor and non-tumor categori
 
 ## Dataset
 The dataset used for training and testing the model consists of labeled MRI images. Ensure you have the dataset in the appropriate directory before running the model.
-
+Dataset Link:-  https://drive.google.com/drive/folders/1rKyf_-UVWg5G4mEnw_5_faDJrXjnu5H0?usp=share_link
 ## Installation
 To get started, clone the repository and install the required dependencies:
 
